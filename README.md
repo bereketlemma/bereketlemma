@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bereketlemma
 - 🌐 Portfolio: https://bereketlemma.github.io/Portfolio-Website/
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently Solving Leetcode Problems and preparing for technical interviews.
 - 💞️ I’m looking to collaborate on any Web Dev projects
 - 📫 How to reach me bereket.lemma10@gmail.com
 
