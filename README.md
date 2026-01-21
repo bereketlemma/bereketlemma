@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @bereketlemma
+- 🛡️ I’m a Software Engineer with a strong interest in **Cybersecurity, Secure Systems, and Backend Development**
 - 🌐 Portfolio: https://bereketlemma.github.io/Portfolio-Website/
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently Solving Leetcode Problems and preparing for technical interviews.
-- 💞️ I’m looking to collaborate on any Web Dev projects
-- 📫 How to reach me bereket.lemma10@gmail.com
+- 🔍 Currently focused on **Network Security, Intrusion Detection Systems, and secure backend architectures**
+- 🌱 Preparing for **technical interviews** while solving **LeetCode (DSA, systems, and security-related problems)**
+- 🤝 Open to collaborating on **security-focused projects**, backend systems, and full-stack applications
+- 📫 Reach me at: **bereket.lemma10@gmail.com**
+
 
 <!---
 bereketlemma/bereketlemma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
