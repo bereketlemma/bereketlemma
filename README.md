@@ -5,7 +5,7 @@
 </div>
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════════════════
+╔══ ME
 ║                                                                
 ║               B E R E K E T    L E M M A                       
 ║           Software Engineer  ·  Security Enthusiast            
@@ -19,7 +19,7 @@
 ---
 
 ```
-┌─ ORIGIN STORY ─────────────────────────────────────────────────────────────────────────────
+┌─ ORIGIN STORY 
 │                                                                
 │   CS graduate from Whitworth University.                       
 │   Minor in Applied Mathematics.                                
@@ -37,5 +37,9 @@
 │                                                                
 └────────────────────────────────────────────────────────────────────────────────────────
 ```
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=4000&pause=2000&color=50FA7B&center=true&vCenter=true&width=500&lines=%3E+CONNECT+WITH+PLAYER+1;%3E+INITIATING+HANDSHAKE..." alt="Connect" />
+
+</div>
 ---
