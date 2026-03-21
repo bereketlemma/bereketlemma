@@ -5,38 +5,37 @@
 </div>
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║               B E R E K E T    L E M M A                       ║
-║           Software Engineer  ·  Security Enthusiast            ║
-║                                                                ║
-║   CLASS: Software Engineer         LOCATION: Seattle, WA       ║
-║   LEVEL: New Grad + Early Career   ALIGNMENT: Chaotic Builder  ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+║                                                                
+║               B E R E K E T    L E M M A                       
+║           Software Engineer  ·  Security Enthusiast            
+║                                                                
+║   CLASS: Software Engineer         LOCATION: Seattle, WA       
+║   LEVEL: New Grad + Early Career   ALIGNMENT: Chaotic Builder  
+║                                                                
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 ```
 
 ---
 
 ```
-┌─ ORIGIN STORY ─────────────────────────────────────────────────┐
-│                                                                │
-│   CS graduate from Whitworth University.                       │
-│   Minor in Applied Mathematics.                                │
-│   3rd Place — ICPC Pacific Northwest Regional.                 │
-│                                                                │
-│   I love building things that solve real-world problems,       │
-│   and I'm always on the lookout for ways to push my skills     │
-│   and learn something new. I've grown up assisting people      │
-│   around me, which has shaped me into a strong collaborator    │
-│   and team player. I believe in supporting others, learning    │
-│   from their perspectives, and growing — both as an engineer   │
-│   and as a person.                                             │
-│                                                                │
-│   ⚡ CURRENT QUEST: Building DevScope — a GCP-native           │
-│      repository intelligence tool                              │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
+┌─ ORIGIN STORY ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+│                                                                
+│   CS graduate from Whitworth University.                       
+│   Minor in Applied Mathematics.                                
+│   3rd Place — ICPC Pacific Northwest Regional.                 
+│                                                                
+│   I love building things that solve real-world problems,       
+│   and I'm always on the lookout for ways to push my skills     
+│   and learn something new. I've grown up assisting people      
+│   around me, which has shaped me into a strong collaborator    
+│   and team player. I believe in supporting others, learning    
+│   from their perspectives, and growing — both as an engineer   
+│   and as a person.                                             
+│                                                                
+│   ⚡ CURRENT QUEST: Building DevScope — a GCP-native repository intelligence tool                      
+│                                                                
+└───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
 
 ---
