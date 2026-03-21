@@ -7,13 +7,13 @@
 ```
 ╔══ ME
 ║                                                                
-║               B E R E K E T    L E M M A                       
-║           Software Engineer  ·  Security Enthusiast            
+║                             B E R E K E T    L E M M A                       
+║                        Software Engineer  ·  Security Enthusiast            
 ║                                                                
-║   CLASS: Software Engineer         LOCATION: Seattle, WA       
-║   LEVEL: New Grad + Early Career   ALIGNMENT: Team Player  
+║   CLASS: Software Engineer                               LOCATION: Seattle, WA       
+║   LEVEL: New Grad + Early Career                         Character: Team Player  
 ║                                                                
-╚════════════════════════════════════════════════════════════════════════════════════════════
+
 ```
 
 ---
@@ -35,11 +35,10 @@
 │                                                                
 │   ⚡ CURRENT QUEST: Building DevScope — a GCP-native repository intelligence tool                      
 │                                                                
-└────────────────────────────────────────────────────────────────────────────────────────
+
 ```
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=4000&pause=2000&color=50FA7B&center=true&vCenter=true&width=500&lines=%3E+CONNECT+WITH+PLAYER+1;%3E+INITIATING+HANDSHAKE..." alt="Connect" />
 
 </div>
----
