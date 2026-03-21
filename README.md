@@ -11,7 +11,7 @@
 ║           Software Engineer  ·  Security Enthusiast            
 ║                                                                
 ║   CLASS: Software Engineer         LOCATION: Seattle, WA       
-║   LEVEL: New Grad + Early Career   ALIGNMENT: Chaotic Builder  
+║   LEVEL: New Grad + Early Career   ALIGNMENT: Team Player  
 ║                                                                
 ╚════════════════════════════════════════════════════════════════════════════════════════════
 ```
