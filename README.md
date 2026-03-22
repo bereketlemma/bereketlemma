@@ -26,17 +26,29 @@ Software Engineer with a CS + Applied Math background from [Whitworth University
 
 ### `> ls active_quests/`
 
-<p>
-  <a href="https://github.com/bereketlemma/DevScope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=DevScope&theme=dracula&hide_border=true" />
-  </a>
-  <a href="https://github.com/bereketlemma/network-intrusion-detection-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=network-intrusion-detection-system&theme=dracula&hide_border=true" />
-  </a>
-  <a href="https://github.com/bereketlemma/CPU-Scheduler-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=CPU-Scheduler-Simulator&theme=dracula&hide_border=true" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/bereketlemma/DevScope">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=DevScope&theme=dracula&hide_border=true" width="100%" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/bereketlemma/network-intrusion-detection-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=network-intrusion-detection-system&theme=dracula&hide_border=true" width="100%" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/bereketlemma/CPU-Scheduler-Simulator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=CPU-Scheduler-Simulator&theme=dracula&hide_border=true" width="100%" />
+</a>
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 ```
 [▶ ACTIVE]  DevScope — Repo intelligence for 600+ devs (GCP + Vertex AI)
