@@ -1,55 +1,109 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=BEREKET+LEMMA;BUILDER.++BREAKER.++FIXER.;>+INITIALIZING+SYSTEM..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=BEREKET+LEMMA;BUILDER.++BREAKER.++FIXER.;%3E+SYSTEM+ONLINE." alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE-64FFDA?style=for-the-badge&logo=target&logoColor=black" />
-    <img src="https://img.shields.io/badge/ROLE-SWE_%2F_SECURITY-BD93F9?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/LOCATION-SEATTLE-F1FA8C?style=for-the-badge&logo=googlemaps&logoColor=black" />
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-64FFDA?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/CLASS-SOFTWARE_ENGINEER-BD93F9?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LOCATION-SEATTLE_WA-F1FA8C?style=for-the-badge&logoColor=black" />
   </p>
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-bereketl-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/bereketl) 
+  [![Email](https://img.shields.io/badge/email-bereket.lemma10-EA4335?style=flat&logo=gmail)](mailto:bereket.lemma10@gmail.com) 
+  [![Portfolio](https://img.shields.io/badge/portfolio-bereketlemma-000?style=flat&logo=github)](https://bereketlemma.github.io/Portfolio-Website/)
 </div>
 
 ---
 
-### 🟢 SYSTEM_MANIFEST
-> **"I build cool stuff, break it to see why, and then figure out how to make it better."**
+### `> cat manifest.txt`
 
-I’m a Software Engineer and CS + Applied Maths background who treats code like a puzzle. From architecting event-driven platforms at Celerie to automating security at [Washington Trust Bank](https://www.watrust.com), I specialize in deconstructing complex systems to rebuild them stronger and faster.
+> *"I build cool stuff, break it to see why, and then figure out how to make it better."*
+
+Software Engineer with a CS + Applied Math background from [Whitworth University](https://www.whitworth.edu). I treat every system like a puzzle—from architecting event-driven platforms to automating security for [Washington Trust Bank](https://www.watrust.com). I specialize in deconstructing complex problems to rebuild them stronger, faster, and cleaner.
 
 ---
 
-### 🕹️ CURRENT_QUESTS
+### `> ls active_quests/`
 
 <p align="left">
   <a href="https://github.com/bereketlemma/DevScope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=DevScope&theme=dracula&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=DevScope&theme=dracula&hide_border=true" />
   </a>
   <a href="https://github.com/bereketlemma/CPU-Scheduler-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=CPU-Scheduler-Simulator&theme=dracula&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=CPU-Scheduler-Simulator&theme=dracula&hide_border=true" />
   </a>
 </p>
 
-* 🚀 **[DevScope](https://github.com/bereketlemma/DevScope)** | Architecting repository intelligence for 600+ devs using GCP & Vertex AI.
-* ⚙️ **[CPU Scheduler](https://github.com/bereketlemma/CPU-Scheduler-Simulator)** | Implementing discrete event models to optimize multiprocessor scheduling by 60%.
-* 🛡️ **[NIDS](https://github.com/bereketlemma/network-intrusion-detection-system)** | Building ML-based intrusion detection with 95% detection precision.
----
-
-### 📡 TECH_STACK
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</div>
-
----
-
-### 🛠️ HARDWARE_LOGS
 ```text
-[ANALYSIS] : 3rd Place @ ICPC Pacific NW Regional
-[MISSION]  : Solving sub-second query latency in BigQuery
-[SKILL]    : Applied Math & Algorithm Optimization
+[▶ ACTIVE]  DevScope — Repo intelligence for 600+ devs (GCP + Vertex AI)
+[✓ DONE ]  NIDS — ML-based intrusion detection with 95% accuracy
+[✓ DONE ]  CPU Scheduler — Optimized system responsiveness by 60% (C)
+[★ QUEST]  Seeking Software & Security Engineering roles
+> cat tech_stack.yml
+
+Languages & Tools
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,typescript,javascript,cpp,c,go,cs,sql,git,linux,docker,kubernetes,githubactions,vscode,postman,powershell" />
+</p>
+
+Frameworks & Cloud
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,tailwind,fastapi,flask,nodejs,express,dotnet,gcp,aws,azure,postgres,redis,mongodb,tensorflow" />
+</p>
+
+> cat battle_record.log
+Plaintext
+
+[2025.02 — 2025.05]  HEWITT LEARNING — Full-Stack SWE Intern
+├── Shipped REST APIs (C#/.NET) managing 1,000+ student records globally
+└── Cut manual data entry by 40% and report turnaround by 60%
+
+[2024.05 — 2024.08]  WASHINGTON TRUST BANK — Security Engineer Intern
+├── Eliminated 80+ eng hours/week automating vulnerability monitoring
+└── Deployed automated security compliance checks via GitHub Actions CI/CD
+
+> system_stats --verbose
+Plaintext
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  DEVELOPMENT AREAS:                                        │
+│  STR ████████████████░░░░ 80  Distributed Systems          │
+│  INT ████████████████████ 99  Backend & Security Ops       │
+│  DEX ██████████████░░░░░░ 70  Cloud-Native Architecture    │
+│                                                            │
+│  INTERESTS & SPECIALIZATIONS:                              │
+│  - System Design & Scalability                             │
+│  - Vulnerability Automation & DevSecOps                    │
+│  - Applied Mathematics & Algorithm Optimization            │
+│                                                            │
+│  CURRENTLY LEARNING:                                       │
+│  - Learning Go (Concurrency Patterns)                      │                        
+│  - Large Language Model (LLM) Orchestration                │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+> cat /dev/random
+Fun Facts & Perks
+
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  🕊️ ATTACK ON TITAN (AOT)                                  │
+│     Dedicated to the Scouts. I will defend Erwin Smith's   │
+│     charge as the greatest moment in anime history.        │
+│                                                            │
+│  🌴 FAR CRY 3                                              │
+│     "Did I ever tell you the definition of insanity?"      │
+│     Vaas Montenegro is the greatest villain ever written.  │
+│                                                            │
+│  🌿 RESIDENT EVIL                                          │
+│     Surviving Raccoon City on Hardcore mode is my only     │
+│     real personality trait.                                |
+│                                                            │
+│  🍗 Building Me                                           │
+│     Ask me about Exercise, nutrition, or longevity         │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D64FFDA%26height%3D60%26section%3Dfooter" width="100%" />
+
+</div>
