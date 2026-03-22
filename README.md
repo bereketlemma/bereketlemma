@@ -20,7 +20,13 @@
 
 > *"I build cool stuff, break it to see why, and then figure out how to make it better."*
 
-Software Engineer with a CS + Applied Math background from [Whitworth University](https://www.whitworth.edu). I treat every system like a puzzle—from architecting event-driven platforms to automating security for [Washington Trust Bank](https://www.watrust.com). I specialize in deconstructing complex problems to rebuild them stronger, faster, and cleaner.
+Software Engineer with a CS + Applied Math background from [Whitworth University](https://www.whitworth.edu). 
+
+I treat every system like a puzzle from architecting event-driven platforms to automating security for [Washington Trust Bank](https://www.watrust.com). 
+
+I've spent my 'runtime' building skills in **Distributed Backend Systems**, **Cloud Infrastructure (GCP)**, and **Full-Stack Development**. 
+
+My primary development areas involve bridge-building between complex mathematical logic and high-performance, secure code.
 
 ---
 
