@@ -30,6 +30,9 @@ Software Engineer with a CS + Applied Math background from [Whitworth University
   <a href="https://github.com/bereketlemma/DevScope">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=DevScope&theme=dracula&hide_border=true" />
   </a>
+  <a href="https://github.com/bereketlemma/network-intrusion-detection-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=network-intrusion-detection-system&theme=dracula&hide_border=true" />
+  </a>
   <a href="https://github.com/bereketlemma/CPU-Scheduler-Simulator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=CPU-Scheduler-Simulator&theme=dracula&hide_border=true" />
   </a>
@@ -49,15 +52,17 @@ Software Engineer with a CS + Applied Math background from [Whitworth University
 **Languages & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,go,cs" />
-  <img src="https://skillicons.dev/icons?i=sql,git,linux,docker,kubernetes,githubactions,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,go,cs&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,githubactions,vscode,powershell&theme=dark" />
 </p>
 
 **Frameworks & Cloud**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,fastapi,flask,nodejs,express,dotnet" />
-  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,postgres,redis,mongodb,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,fastapi,flask,nodejs,express,dotnet&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,postgres,redis,mongodb,tensorflow&theme=dark" />
 </p>
 
 ---
