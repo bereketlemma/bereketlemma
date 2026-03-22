@@ -1,44 +1,38 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=LOADING+CHARACTER+PROFILE...;BEREKET+LEMMA;SOFTWARE+ENGINEER+%7C+SEATTLE+WA;SYSTEM+ONLINE.+READY." alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+cool+stuff.;I+break+it+to+see+why.;I+make+it+better." alt="Typing SVG" />
 </div>
 
-```
-╔══ ME
-║                                                                
-║                             B E R E K E T    L E M M A                       
-║                        Software Engineer  ·  Security Enthusiast            
-║                                                                
-║   CLASS: Software Engineer                               LOCATION: Seattle, WA       
-║   LEVEL: New Grad + Early Career                         Character: Team Player  
-║                                                                
-
-```
+### ⚡ System Overview
+**Software Engineer | Security Enthusiast | Problem Solver** I’m a CS and Applied Math grad who thrives on the "aha!" moment. From architecting legal-tech platforms to automating security for banks, I specialize in digging under the hood of complex systems to make them faster, safer, and more scalable.
 
 ---
 
-```
-┌─ ORIGIN STORY 
-│                                                                
-│   CS graduate from Whitworth University.                       
-│   Minor in Applied Mathematics.                                
-│   3rd Place — ICPC Pacific Northwest Regional.                 
-│                                                                
-│   I love building things that solve real-world problems,       
-│   and I'm always on the lookout for ways to push my skills     
-│   and learn something new. I've grown up assisting people      
-│   around me, which has shaped me into a strong collaborator    
-│   and team player. I believe in supporting others, learning    
-│   from their perspectives, and growing — both as an engineer   
-│   and as a person.                                             
-│                                                                
-│   ⚡ CURRENT QUEST: Building DevScope — a GCP-native repository intelligence tool                      
-│                                                                
+### 🚀 High-Impact Quests
+* **Security Engineer Intern @ Washington Trust Bank:** Automated vulnerability workflows, saving the team 80+ engineering hours per week.
+* **Creator of [DevScope](https://github.com/bereketlemma/DevScope):** Building repository intelligence for 600+ developers using GCP & Vertex AI.
 
-```
+---
+
+### 🛠️ The Toolkit
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | Python, C++, Go, TypeScript, Java, SQL |
+| **Cloud & Infra** | GCP (BigQuery, Pub/Sub, Vertex AI), AWS, Docker, Kubernetes |
+| **Specialties** | Security Automation, Distributed Systems, Applied Math |
+
+---
+
+### 📊 Stats & Handshakes
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=4000&pause=2000&color=50FA7B&center=true&vCenter=true&width=500&lines=%3E+CONNECT+WITH+PLAYER+1;%3E+INITIATING+HANDSHAKE..." alt="Connect" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=bereketlemma&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br />
+  <a href="https://linkedin.com/in/bereketl">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bereket.lemma10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </div>
+
+---
+<p align="center"><i>"The best way to understand a system is to try to break it."</i></p>
