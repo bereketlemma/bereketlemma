@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=BEREKET+LEMMA;BUILDER.++BREAKER.++FIXER.;%3E+SYSTEM+ONLINE." alt="Typing SVG" />
 
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE-64FFDA?style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/CLASS-SOFTWARE_ENGINEER-BD93F9?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/LOCATION-SEATTLE_WA-F1FA8C?style=for-the-badge&logoColor=black" />
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=BEREKET+LEMMA;BUILDER.++BREAKER.++FIXER.;%3E+SYSTEM+ONLINE." alt="Typing SVG" />
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-bereketl-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/bereketl) 
-  [![Email](https://img.shields.io/badge/email-bereket.lemma10-EA4335?style=flat&logo=gmail)](mailto:bereket.lemma10@gmail.com) 
-  [![Portfolio](https://img.shields.io/badge/portfolio-bereketlemma-000?style=flat&logo=github)](https://bereketlemma.github.io/Portfolio-Website/)
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-64FFDA?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/CLASS-SOFTWARE_ENGINEER-BD93F9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-SEATTLE_WA-F1FA8C?style=for-the-badge&logoColor=black" />
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-bereketl-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/bereketl)
+[![Email](https://img.shields.io/badge/email-bereket.lemma10-EA4335?style=flat&logo=gmail)](mailto:bereket.lemma10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-bereketlemma-000?style=flat&logo=github)](https://bereketlemma.github.io/Portfolio-Website/)
+
 </div>
 
 ---
@@ -24,7 +26,7 @@ Software Engineer with a CS + Applied Math background from [Whitworth University
 
 ### `> ls active_quests/`
 
-<p align="left">
+<p>
   <a href="https://github.com/bereketlemma/DevScope">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bereketlemma&repo=DevScope&theme=dracula&hide_border=true" />
   </a>
@@ -33,28 +35,36 @@ Software Engineer with a CS + Applied Math background from [Whitworth University
   </a>
 </p>
 
-```text
+```
 [▶ ACTIVE]  DevScope — Repo intelligence for 600+ devs (GCP + Vertex AI)
 [✓ DONE ]  NIDS — ML-based intrusion detection with 95% accuracy
 [✓ DONE ]  CPU Scheduler — Optimized system responsiveness by 60% (C)
 [★ QUEST]  Seeking Software & Security Engineering roles
-> cat tech_stack.yml
+```
 
-Languages & Tools
+---
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,typescript,javascript,cpp,c,go,cs,sql,git,linux,docker,kubernetes,githubactions,vscode,postman,powershell" />
+### `> cat tech_stack.yml`
+
+**Languages & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,go,cs" />
+  <img src="https://skillicons.dev/icons?i=sql,git,linux,docker,kubernetes,githubactions,vscode" />
 </p>
 
-Frameworks & Cloud
+**Frameworks & Cloud**
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,tailwind,fastapi,flask,nodejs,express,dotnet,gcp,aws,azure,postgres,redis,mongodb,tensorflow" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,fastapi,flask,nodejs,express,dotnet" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,postgres,redis,mongodb,tensorflow" />
 </p>
 
-> cat battle_record.log
-Plaintext
+---
 
+### `> cat battle_record.log`
+
+```
 [2025.02 — 2025.05]  HEWITT LEARNING — Full-Stack SWE Intern
 ├── Shipped REST APIs (C#/.NET) managing 1,000+ student records globally
 └── Cut manual data entry by 40% and report turnaround by 60%
@@ -62,9 +72,13 @@ Plaintext
 [2024.05 — 2024.08]  WASHINGTON TRUST BANK — Security Engineer Intern
 ├── Eliminated 80+ eng hours/week automating vulnerability monitoring
 └── Deployed automated security compliance checks via GitHub Actions CI/CD
+```
 
-> system_stats --verbose
-Plaintext
+---
+
+### `> system_stats --verbose`
+
+```
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
 │  DEVELOPMENT AREAS:                                        │
@@ -78,13 +92,17 @@ Plaintext
 │  - Applied Mathematics & Algorithm Optimization            │
 │                                                            │
 │  CURRENTLY LEARNING:                                       │
-│  - Learning Go (Concurrency Patterns)                      │                        
+│  - Learning Go (Concurrency Patterns)                      │
 │  - Large Language Model (LLM) Orchestration                │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
-> cat /dev/random
-Fun Facts & Perks
+```
 
+---
+
+### `> cat /dev/random`
+
+```
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
 │  🕊️ ATTACK ON TITAN (AOT)                                  │
@@ -97,13 +115,18 @@ Fun Facts & Perks
 │                                                            │
 │  🌿 RESIDENT EVIL                                          │
 │     Surviving Raccoon City on Hardcore mode is my only     │
-│     real personality trait.                                |
+│     real personality trait.                                 │
 │                                                            │
-│  🍗 Building Me                                           │
-│     Ask me about Exercise, nutrition, or longevity         │
+│  🍗 BUILDING ME                                             │
+│     Ask me about exercise, nutrition, or longevity.        │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
+```
+
+---
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D64FFDA%26height%3D60%26section%3Dfooter" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=64FFDA&height=60&section=footer" width="100%" />
 
 </div>
