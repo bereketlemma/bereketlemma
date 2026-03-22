@@ -19,12 +19,14 @@ I care more about the team winning than who gets the credit. I ask a lot of ques
 
 ## 🚀 Projects
 
-- **[DevScope](https://github.com/your-username/devscope)**: 
-Built a GCP-native intelligence tool used by 600+ devs to track repo health. Leveraged **Pub/Sub**, **BigQuery**, and **Vertex AI** to turn massive datasets into actionable insights.
-- **[NIDS](https://github.com/your-username/nids)**: 
-Developed an ML-based Network Intrusion Detection System that hits **95% accuracy** in identifying threats. Focused on high-performance security without the typical latency overhead.
-- **[CPU Scheduler](https://github.com/your-username/cpu-scheduler)**:
-Wrote a custom scheduler in **C** that optimized system responsiveness by **60%**. A deep dive into kernel-level resource management and performance tuning.
+- **[DevScope](https://github.com/bereketlemma/DevScope)**  
+  A tool that pulls data from GitHub repos and shows engineering teams how they're performing and things like how fast PRs get reviewed, where bottlenecks are, and what's slowing the team down.
+
+- **[NIDS](https://github.com/bereketlemma/network-intrusion-detection-system)**  
+  A system that watches network traffic and detects cyberattacks in real time. Trained on 2.5M+ records and catches threats with 97% accuracy.
+
+- **[CPU Scheduler Simulator](https://github.com/bereketlemma/CPU-Scheduler-Simulator)**  
+  A simulation that tests different ways a computer decides which tasks to run first. Compares scheduling algorithms side by side using real server data to see which one performs best.
 
 ## 😂 Fun Facts
 
