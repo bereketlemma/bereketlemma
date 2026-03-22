@@ -8,7 +8,9 @@
 ---
 
 ### 🚀 High-Impact Quests
+* **Founding Engineer @ Celeri.io:** Architected an event-driven legal-tech platform that secured $50k in funding.
 * **Security Engineer Intern @ Washington Trust Bank:** Automated vulnerability workflows, saving the team 80+ engineering hours per week.
+* **Open Source @ ColorStack:** Optimized async job pipelines for a community of 17,000+ members.
 * **Creator of [DevScope](https://github.com/bereketlemma/DevScope):** Building repository intelligence for 600+ developers using GCP & Vertex AI.
 
 ---
