@@ -14,7 +14,7 @@
 
 </div>
 
-<img align="right" width="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/1f286a30255015.561ae59a5a3b9.gif" alt="Star Wars" />
+<img align="right" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/1f286a30255015.561ae59a5a3b9.gif" alt="Star Wars" />
 
 
 
