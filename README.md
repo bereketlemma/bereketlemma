@@ -24,7 +24,7 @@
 - 🛡️ I build dependable infrastructure with a focus on reliability and zero trust architecture.
 - 🔐 Interned as a Security Engineer at Washington Trust Bank and a Full-Stack SWE at Hewitt Learning.
 - 🤖 Currently Competing in the [OpenAI Parameter Golf Challenge](https://github.com/bereketlemma/parameter-golf) :  <br> Training a language model to fit within 16MB, under 10 minutes on 8 H100 GPUs, optimized for compression on FineWeb.
-- 🚀 Celeri.io startup: won a $50,000 investment at Sparks Weekend to build communication software for criminal courts, reducing pretrial detention times by connecting stakeholders across counties. [Watch the pitch](https://www.youtube.com/watch?v=CvY1y46ypYw)
+- 💡 Celeri.io startup: won a $50,000 investment at Sparks Weekend to build communication software for criminal courts, reducing pretrial detention times by connecting stakeholders across counties. [Watch the pitch](https://www.youtube.com/watch?v=CvY1y46ypYw)
 - 🏆 3rd Place ICPC Pacific Northwest Regional 2025.
 
 
