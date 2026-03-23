@@ -14,18 +14,17 @@
 
 </div>
 
+<img align="right" width="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/1f286a30255015.561ae59a5a3b9.gif" alt="Star Wars" />
 
-<img align="right" width="300" src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/terminal.gif" alt="Terminal" />
 
-
----
 
 - 👋 I'm Bereket Lemma, a Software Engineer based in Seattle.
 - 🎓 B.S. in Computer Science and Mathematics, Whitworth University.
-- ⚙️ I'm a Software Engineer focused on full stack web development and security engineering. <br> I build dependable infrastructure with a focus on reliability and zero trust architecture.
+- ⚙️ I'm a Software Engineer focused on full stack web development and security engineering.
+- 🛡️ I build dependable infrastructure with a focus on reliability and zero trust architecture.
 - 🔐 Interned as a Security Engineer at Washington Trust Bank and a Full-Stack SWE at Hewitt Learning.
 - 🤖 Currently Competing in the [OpenAI Parameter Golf Challenge](https://github.com/bereketlemma/parameter-golf) :  <br> Training a language model to fit within 16MB, under 10 minutes on 8 H100 GPUs, optimized for compression on FineWeb.
-- 🚀 Celeri.io startup: won a $50,000 investment at Sparks Weekend to build communication software for criminal courts, reducing pretrial detention times by connecting stakeholders across counties.
+- 🚀 Celeri.io startup: won a $50,000 investment at Sparks Weekend to build communication software for criminal courts, reducing pretrial detention times by connecting stakeholders across counties. [Watch the pitch](https://www.youtube.com/watch?v=CvY1y46ypYw)
 - 🏆 3rd Place ICPC Pacific Northwest Regional 2025.
 
 
@@ -40,14 +39,14 @@
     - Trained a Random Forest classifier on 2,830,743 CICIDS2017 events. Applied SMOTE oversampling to fix 83% class imbalance, achieving 97.47% accuracy and under 2% false positive rate. Results visualized in a live Streamlit dashboard.
 
 - **[CPU Scheduler Simulator](https://github.com/bereketlemma/CPU-Scheduler-Simulator)** : `C` `PlanetLab Traces`
-    - Implemented FCFS, SJF, Round Robin, and Priority scheduling from scratch in C++ and benchmarked them against 1,000+ real PlanetLab distributed VM workload traces.
+    - Implemented FCFS, SJF, Round Robin, and Priority scheduling from scratch in C and benchmarked them against 1,000+ real PlanetLab distributed VM workload traces.
     - Measured throughput, CPU utilization, and turnaround time across all four algorithms to identify the optimal strategy per workload type.
 
 
 📚 **What I'm Learning:**
 
-- **[Go Basics for Backend & Infrastructure](https://go.dev/learn/)** : Picking up Go coming from C# .NET and Flask background and wanted to learn because of Single binary, no VM, smaller Docker images.
-- **[NeetCode 150 — DSA](https://neetcode.io/)** : Building fundamentals for technical interviews daily practice on graphs and intervals.
+- **[Go Basics for Backend & Infrastructure](https://go.dev/learn/)** : My backend work has been in C# .NET and Python with Flask. Picking up Go for its single binary compilation, no VM dependencies, and smaller Docker image sizes
+- **[NeetCode 150 DSA](https://neetcode.io/)** : Building fundamentals for technical interviews daily practice on graphs and intervals.
 
 🛠️ **Skills:**
 
