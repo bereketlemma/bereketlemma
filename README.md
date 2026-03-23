@@ -17,13 +17,14 @@
 
 <img align="right" width="300" src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/terminal.gif" alt="Terminal" />
 
-*A Software Engineer. Full-Stack. Cloud Infrastructure. Security.*
 
-- 👋 I'm Bereket Lemma, a Software Engineer based in Seattle.
-- 🎓 New grad with a Bachelor's in Computer Science and Mathematics from Whitworth University.
-- ⚙️ I am interested in working across Full-stack dev, Cloud infrastructure, and security Engineering.
+---
+
+- 👋👋 I'm Bereket Lemma, a Software Engineer based in Seattle.
+- 🎓 B.S. in Computer Science and Mathematics, Whitworth University.
+- ⚙️I'm a Software Engineer focused on full stack web development and security engineering. <br> I build dependable infrastructure with a focus on reliability and zero trust architecture.
 - 🔐 Interned as a Security Engineer at Washington Trust Bank and a Full-Stack SWE at Hewitt Learning.
-- 🤖 Competing in the [OpenAI Parameter Golf Challenge](https://github.com/bereketlemma/parameter-golf): training a language model to fit within 16MB, under 10 minutes on 8 H100 GPUs, optimized for compression on FineWeb.
+- 🤖 Currently Competing in the [OpenAI Parameter Golf Challenge](https://github.com/bereketlemma/parameter-golf) :  <br> Training a language model to fit within 16MB, under 10 minutes on 8 H100 GPUs, optimized for compression on FineWeb.
 - 🚀 Celeri.io startup: won a $50,000 investment at Sparks Weekend to build communication software for criminal courts, reducing pretrial detention times by connecting stakeholders across counties.
 - 🏆 3rd Place ICPC Pacific Northwest Regional 2025.
 
@@ -31,13 +32,16 @@
 🚀 **Projects:**
 
 - **[DevScope](https://github.com/bereketlemma/DevScope)** : `GCP` `BigQuery` `Pub/Sub` `Vertex AI` `React` `TypeScript`
-  - Engineering analytics platform that tracks PR velocity, review latency, and delivery bottlenecks. Vertex AI runs anomaly detection to flag productivity regressions with 95% precision.
+  - Built a GCP-native engineering analytics platform that mines GitHub repository data to surface PR velocity, review latency, and code churn for engineering teams.
+  - Designed the full data pipeline: GitHub API streams events into Cloud Pub/Sub, feeds BigQuery for sub-second querying, and triggers Vertex AI anomaly detection on Cloud Run to flag productivity regressions with 95% precision.
 
 - **[Network Intrusion Detection System](https://github.com/bereketlemma/network-intrusion-detection-system)** : `Python` `Scikit-learn` `Random Forest` `Streamlit`
-  - Real-time traffic classifier across 8 attack categories. Trained on 2,830,743 CICIDS2017 events 97.47% accuracy, under 2% false positive rate.
+    - Built a real-time network intrusion detection system in Python that classifies live traffic across 8 attack categories including port scans, brute-force, and DDoS.
+    - Trained a Random Forest classifier on 2,830,743 CICIDS2017 events. Applied SMOTE oversampling to fix 83% class imbalance, achieving 97.47% accuracy and under 2% false positive rate. Results visualized in a live Streamlit dashboard.
 
 - **[CPU Scheduler Simulator](https://github.com/bereketlemma/CPU-Scheduler-Simulator)** : `C++` `PlanetLab Traces`
-  - Benchmarks FCFS, SJF, Round Robin, and Priority scheduling across 1,000+ real VM traces. Round Robin outperformed FCFS by 40% in average wait time on mixed workloads.
+  - Implemented FCFS, SJF, Round Robin, and Priority scheduling from scratch in C++ and benchmarked them against 1,000+ real PlanetLab distributed VM workload traces.
+  - Measured throughput, CPU utilization, and turnaround time across all four algorithms to identify the optimal strategy per workload type.
 
 
 📚 **What I'm Learning:**
