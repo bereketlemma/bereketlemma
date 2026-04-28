@@ -10,7 +10,7 @@
 </div>
 
  😎 **About Me:** 
-- Personal Portfolio [here](https://www.bereketlemma.com/)
+ 
 - I'm Bereket Lemma, a Software Engineer based in Seattle. 
 - B.S. in Computer Science and Mathematics, Whitworth University.
 - Focused on full stack web development and security engineering.
